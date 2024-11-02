@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name 'yourusername'
-          git config --global user.email 'your-email@example.com'
+          git config --global user.name 'tharunkumarvmt'
+          git config --global user.email 'tharunkumarvmt@gmail.com'
           git add README.md
           git commit -m "Update HackerRank stats"
           git push
