@@ -30,7 +30,7 @@ def update_readme(stats):
         file.writelines(lines)
 
 if __name__ == "__main__":
-    username = "yourusername"  # Replace with your actual HackerRank username
+    username = "tharunkumarvmt"  # Replace with your actual HackerRank username
     stats = fetch_hackerrank_stats(username)
     if stats:
         update_readme(stats)
