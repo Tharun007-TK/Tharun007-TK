@@ -11,7 +11,17 @@
 <div align="center">
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 <br />
-  
+
+<p align="center"><img src="animation.gif" width="35%"></p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=4000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Tharun+Kumar+%3C3;I'+am+a+3rd+yr+Undergraduate+at+MCET;I'+am+a+ML+Engineer+Designer+Entrepreneur;Welcome+to+my+profile+!">
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
 <div align="center">
 <br />
   
@@ -28,6 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="52" alt="nextjs logo"  />
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
 
 <br />
 <br />  
@@ -47,18 +59,60 @@
 </div>
 <br />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/tharunkumarvmt)
 
-<!-- Snake Game -->
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🚀 My HackerRank Dashboard
 
 | 🏆 **Achievements** | 📊 **Stats**          | 🧩 **Top Skills**       |
 |---------------------|-----------------------|-------------------------|
 | ![Badge](https://img.shields.io/badge/Problem_Solving-Gold-brightgreen?style=for-the-badge&logo=hackerrank)  | **Problems Solved**: N/A | ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)   |
+
+# 🚀 GitHub Stats
+
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-webdesigner&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun007-webdesigner&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-webdesigner&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun007-webdesigner&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--Music Player-->
+<td width="50%">
+      
+&nbsp; <br> 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+</td>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">vv
+
+<!-- Snake Game -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture> 
+</div>
 
 <div align="center">
 <p align="center">
