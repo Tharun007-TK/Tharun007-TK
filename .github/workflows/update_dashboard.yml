@@ -1,0 +1,38 @@
+# .github/workflows/update_dashboard.yml
+
+name: Update HackerRank Dashboard
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Python Script
+        run: python hackerrank_stats.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'yourusername'
+          git config --global user.email 'your-email@example.com'
+          git add README.md
+          git commit -m "Update HackerRank stats"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
