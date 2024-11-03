@@ -35,7 +35,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Tharunpp)](https://github.com/Tharun007-webdesigner/Tharunpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-webdesigner/Text_Summariser_using_nltk )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Morphological_Operations_using_OpenCV)](https://github.com/Tharun007-webdesigner/Morphological_Operations_using_OpenCV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=CookBot)](https://github.com/Tharun007-webdesigner/CookBot)
 
 
