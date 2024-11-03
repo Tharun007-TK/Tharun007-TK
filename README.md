@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<br><h1>📖 About Me</h1>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
 <div style="text-align: left">
     <p align="left">🔭 I’m currently working on <a href="https://github.com/kalvUK">Web Project</a></p>
     <p align="left">🌱 I’m currently learning <strong>Java and Data Structures</strong></p>
@@ -31,7 +31,13 @@
     <p align="left">⚡ Fun fact: <strong>I think I fell in love with problems</strong></p>
 </div>
 
+## My Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Tharunpp)](https://github.com/Tharun007-webdesigner/Tharunpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-webdesigner/Text_Summariser_using_nltk )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Morphological_Operations_using_OpenCV)](https://github.com/Tharun007-webdesigner/Morphological_Operations_using_OpenCV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=Style_Transfer_using-Python )](https://github.com/Tharun007-webdesigner/Style_Transfer_using-Python )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-webdesigner&repo=CookBot)](https://github.com/Tharun007-webdesigner/CookBot)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -199,6 +205,8 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
 </p>
+
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 </details>
 
