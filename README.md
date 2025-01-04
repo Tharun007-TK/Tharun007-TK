@@ -22,8 +22,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
 <div style="text-align: left">
-    <p align="left">🔭 I’m currently working on <a href="https://github.com/kalvUK">Web Project</a></p>
-    <p align="left">🌱 I’m currently learning <strong>Java and Data Structures</strong></p>
+    <p align="left">🔭 I’m currently working on <a href="https://github.com/kalvUK">website</a> for a Startup</p>
+    <p align="left">🌱 I’m currently learning <strong>Java Script and React JS</strong></p>
     <p align="left">👨‍💻 All of my projects are available at <a href="https://linktr.ee/tharunkumar.designs">https://linktr.ee/tharunkumar.designs</a></p>
     <p align="left">📝 I regularly write articles on <a href="https://medium.com/@tharunkumarvmt">https://medium.com/@tharunkumarvmt</a></p>
     <p align="left">💬 Ask me about <strong>Machine Learning, Python, Deep Learning</strong></p>
