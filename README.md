@@ -156,7 +156,8 @@
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-orcin-ten.vercel.app?user=Tharun007-TK&theme=shades-of-purple&hide_border=true&border_radius=4.7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=29%2C51008FCF%2C5E0090C5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-orcin-ten.vercel.app?user=Tharun007-TK&theme=shades-of-purple&hide_border=true&border_radius=4.7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
