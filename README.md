@@ -156,7 +156,7 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tharun007-TK&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=Tharun007-TK&theme=radical)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=gotham#gh-dark-mode-only" />
