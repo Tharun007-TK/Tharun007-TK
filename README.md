@@ -6,6 +6,10 @@
 <summary>Open profile</summary>
   
 <!--horizontal divider(gradiant)-->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
 <div align="center">
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 <br />
@@ -29,7 +33,11 @@
     <p align="left">⚡ Fun fact: <strong>I think I fell in love with problems</strong></p>
 </div>
 
-## My Repositories
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; My Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Tharunpp)](https://github.com/Tharun007-webdesigner/Tharunpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-webdesigner/Text_Summariser_using_nltk )
