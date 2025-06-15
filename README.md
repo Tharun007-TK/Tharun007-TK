@@ -17,7 +17,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=4000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Tharun+Kumar+%3C3;I'm+a+3rd+yr+Undergraduate+at+MCET;I'm+a+ML+Engineer+Designer+Entrepreneur;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=4000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Tharun+Kumar+%3C3;I'm+an+Undergraduate+in+Machine+Learing;I'm+a+ML+Advocate+Designer+Entrepreneur;Welcome+to+my+profile+!">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
