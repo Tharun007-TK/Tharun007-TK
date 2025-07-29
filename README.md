@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://twitter.com/tharuntk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharuntk007" height="40" width="52" /></a>
-<a href="https://linkedin.com/in/tharun-kumar-801427259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun-kumar-801427259" height="40" width="52" /></a>
+<a href="https://linkedin.com/in/tharunkumar-mldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun-kumar-801427259" height="40" width="52" /></a>
 <a href="https://kaggle.com/tharun007tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tharun007tk" height="40" width="52" /></a>
 <a href="https://instagram.com/tqk_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tqk_007" height="40" width="52" /></a>
 <a href="https://dribbble.com/tharun_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tharun_007" height="40" width="52" /></a>
