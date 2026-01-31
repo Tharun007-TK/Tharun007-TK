@@ -22,15 +22,45 @@
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
-<div style="text-align: left">
-    <p align="left">🔭 I’m currently working as a Student Intern at <a href="https://github.com/kalvUK">KalV</a> UK</p>
-    <p align="left">🌱 I’m currently learning <strong>Java Script and React JS</strong></p>
-    <p align="left">👨‍💻 All of my projects are available at <a href="https://linktr.ee/tharunkumar.designs">https://linktr.ee/tharunkumar.designs</a></p>
-    <p align="left">📝 I regularly write articles on <a href="https://medium.com/@tharunkumarvmt">https://medium.com/@tharunkumarvmt</a></p>
-    <p align="left">💬 Ask me about <strong>Machine Learning, Python, Deep Learning</strong></p>
-    <p align="left">📫 How to reach me: <strong>tharunkumarvmt@gmail.com</strong></p>
-    <p align="left">⚡ Fun fact: <strong>I think I fell in love with problems</strong></p>
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60" style="vertical-align: middle;" />
+  About Me
+</h2>
+
+<div align="left">
+<p>🔭 Student Intern at <a href="https://github.com/kalvUK">KalV</a> (UK) — working on real-world web and AI-driven products</p>
+<p>🧠 Focused on building with <strong>Machine Learning, Python, and Deep Learning</strong>, while shipping production-ready UIs using <strong>JavaScript & React</strong></p>
+<p>🛠 I enjoy turning complex ideas into usable systems — from ML models to interactive interfaces</p>
+<p>👨‍💻 Projects, experiments, and case studies →  
+<a href="https://linktr.ee/tharunkumar.designs">https://linktr.ee/tharunkumar.designs</a></p>
+<p>✍️ I write practical ML + AI breakdowns on Medium →  
+<a href="https://medium.com/@tharunkumarvmt">medium.com/@tharunkumarvmt</a></p>
+<p>💬 Let’s talk about <strong>ML systems, model design, data pipelines, and AI-powered products</strong></p>
+<p>📫 Reach me at: <strong>tharunkumarvmt@gmail.com</strong></p>
+<p>⚡ Fun fact: <strong>I enjoy problems more than solutions — that’s how better systems are built</strong></p>
+</div>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; My Current Projects
+
+<div align="justify">
+
+#### [Tharunpp](https://github.com/Tharun007-TK/Tharunpp) - Personal portfolio and profile website showcasing my work, skills, and journey as an AI/ML developer and designer.
+
+#### [ML Pipeline Studio](https://github.com/Tharun007-TK/ml-pipeline-studio) - A clean, step-by-step web app to upload datasets, configure ML models, visualize results with interactive charts, and download performance reports — all without writing code.
+
+#### [Exoplanet SPectrum Recovery using ML](https://github.com/Tharun007-TK/exoplanet-spectrum-recovery-ml) - Deep learning framework for exoplanet atmospheric characterization from transit spectroscopy. Hybrid CNN-Transformer architecture for molecular detection, Bayesian retrieval, and habitability assessment from JWST/HST observations.
+
+#### [Jobstream - A web based scraper for jobs](https://github.com/Tharun007-TK/jobstream) - A unified job search and aggregation platform that collects, normalizes, and presents job listings from multiple sources in one place.
+
+#### [StudyBuddy AI Agent](https://github.com/Tharun007-TK/studybuddy-ai-agent) - Study Buddy AI helps you organize your study schedule, summarize materials, and stay on top of your academic tasks.
+
+#### [ML from Scratch](https://github.com/Tharun007-TK/MLfromScratch) - A collection of machine learning algorithms implemented from scratch using Python — built to understand the math, logic, and inner workings behind ML models without relying on libraries.
+
 </div>
 
 <p  align="center">
@@ -160,10 +190,6 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; My Favourite Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Tharunpp)](https://github.com/Tharun007-TK/Tharunpp)
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -187,16 +213,34 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
-</p>
+<br><br>
 
-<h6 align="center">Made with ❤️ by Me</h6>
+<h6 align="center">Made with ❤️ by Tharun</h6>
 
 </details>
 
