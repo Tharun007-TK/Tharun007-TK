@@ -149,7 +149,7 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tharun007-TK&theme=dark-minimalist)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tharun007-TK&theme=sea-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=gotham#gh-dark-mode-only" />
@@ -160,17 +160,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun007-TK&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Tharunpp)](https://github.com/Tharun007-webdesigner/Tharunpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-webdesigner/Text_Summariser_using_nltk )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=CookBot)](https://github.com/Tharun007-webdesigner/CookBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Morphological_Operations_using_OpenCV)](https://github.com/Tharun007-webdesigner/Morphological_Operations_using_OpenCV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Style_Transfer_using-Python)](https://github.com/Tharun007-webdesigner/Style_Transfer_using-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Tharunpp)](https://github.com/Tharun007-TK/Tharunpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-TK/ml-pipeline-studio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=CookBot)](https://github.com/Tharun007-TK/exoplanet-spectrum-recovery-ml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Morphological_Operations_using_OpenCV)](https://github.com/Tharun007-TK/studybuddy-ai-agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Style_Transfer_using-Python)](https://github.com/Tharun007-TK/campus-taskflow-agent)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
