@@ -67,7 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-# 📬 Connect with me
+# Connect with me
 
 <p align="center">
 <a href="https://twitter.com/tharuntk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharuntk007" height="40" width="52" /></a>
@@ -88,7 +88,7 @@
 
 <br />
 
-# 🌐 Technologies I Know
+# Technologies I Know
 
 <div align="center">
 <br />
@@ -160,7 +160,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-# 🚀 My HackerRank Dashboard
+# My HackerRank Dashboard
 
 | 🏆 **Achievements** | 📊 **Stats**          | 🧩 **Top Skills**       |
 |---------------------|-----------------------|-------------------------|
@@ -175,7 +175,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 </div> 
 
